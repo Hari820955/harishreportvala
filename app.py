@@ -2,7 +2,6 @@ import streamlit as st
 import pytesseract
 from PIL import Image
 import numpy as np
-import cv2
 from googletrans import Translator
 import re
 from langdetect import detect
